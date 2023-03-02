@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 print("Trabajo realizado por Gustavo Adrian Avila Zapata \nRAM: 4096")
+print("Modificacion para la Tarea de APS por Serapio Hernández")
 print("\n'Administracion de memoria RAM'\n")
 print("¿Que tecnica de gestion de memoria desea utilizar?\n"
       "1.- Estatico\n"
